@@ -1,0 +1,7 @@
+#!/bin/bash
+
+name=Ajiboye
+home=$(pwd)
+readonly color= Red``
+
+echo  my name is $name,  i am at $home presently and my favourite color is $color 
