@@ -47,4 +47,4 @@ az storage account show \
   --resource-group $RESOURCE_GROUP \
   --query "primaryEndpoints.web" \
   -o tsv
- 
+ why
