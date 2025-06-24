@@ -37,11 +37,11 @@ Hosted with Azure Static Website feature.
 
 ### ✅ GitHub Actions – Successful Deployment
 
-![GitHub Actions Success](docs/screenshots/github-action-success.jpg)
+![GitHub Actions Success](Capstoneproject/docs/screenshots/github-action-success.jpg)
 
 ### 🌐 Website Live on Azure
 
-![Website Preview](docs/screenshots/live-site.jpg)
+![Website Preview](Capstoneproject/docs/screenshots/live-site.jpg)
 
 ---
 
